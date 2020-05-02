@@ -11,4 +11,4 @@ Deployment
 
 editing
 
-new text more from feat
+compyright
